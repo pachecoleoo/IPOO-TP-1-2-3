@@ -1,0 +1,4 @@
+Nombre: Leonardo Pacheco 
+Legajo: FAI 50-50
+Simulacro Parcial 2: 
+https://github.com/pachecoleoo/Simulacro-Parcial2-POO-.git
